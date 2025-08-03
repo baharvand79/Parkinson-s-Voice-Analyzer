@@ -27,8 +27,8 @@ library(torchaudio) # Library for Mel-spectrograms
 base_input_dir  <- "D:/main_stream/voice_ut/just_start/data/UAMS"
 
 # The main output folder where all results will be saved
-base_output_dir <- "G:/My Drive/Scripts/pretrained_cnn/spectrogram_data"
-# base_output_dir <- "D:/Projects/Voice/Parkinson-s-Voice-Analyzer/pre_trained_cnn/spectrogram_data"
+# base_output_dir <- "G:/My Drive/Scripts/pretrained_cnn/spectrogram_data"
+base_output_dir <- "D:/Projects/Voice/Parkinson-s-Voice-Analyzer/pre_trained_cnn/spectrogram_data"
 
 # A name for the dataset, used for creating output folders
 dataset_name <- "UAMS"
